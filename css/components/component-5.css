@@ -1,0 +1,133 @@
+.c5 ul {
+    background-image: url(../../images/c5-1.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    padding-top: 9rem;
+    padding-bottom: 4.8rem;
+    height: 113.1rem;
+    margin-top: 1.5rem;
+    margin-bottom: 5rem;
+}
+
+.c5 li {
+    display: flex;
+    gap: 1.5rem;
+}
+
+.c5 li img {
+    width: 2.5rem;
+    height: 2.5rem;
+}
+
+.c5 li p {
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 1.4rem;
+    line-height: 143%;
+    color: #fff;
+}
+.c5-image{
+    width: 100%;
+}
+
+.c5-image-2 {
+    width: 37.8rem;
+    left: 50%;
+    margin-bottom: 3rem;
+    position: relative;
+    transform: translateX(-50%);
+}
+
+.c5-end-text {
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 1.4rem;
+    line-height: 143%;
+    text-align: center;
+    color: #fff;
+}
+.head-li{
+    font-family: var(--second-family);
+    font-weight: 700;
+    font-size: 1.6rem;
+    line-height: 125%;
+    text-transform: uppercase;
+    color: #fff;
+    padding-left: 4rem;
+    margin-bottom: 1.8rem;
+}
+.next{
+    margin-top: 5rem;
+}
+.next-text{
+    font-family: var(--second-family) !important;
+    font-weight: 600 !important; 
+    font-size: 1.6rem !important;
+    line-height: 125% !important;
+    text-transform: uppercase;
+}
+.result {
+    padding-top: 0rem;
+    background-image: url(../../images/result-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+}
+.result-head{
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 3rem;
+    line-height: 133%;
+    text-transform: uppercase;
+    text-align: center;
+    color: #fff;
+    margin-bottom: 2.6rem;
+}
+.result ul{
+    gap: 2rem;
+    display: grid;
+    padding-left: 2.5rem;
+    padding-right: 3rem;
+    padding-bottom: 5.1rem;
+}
+.result li {
+    font-family: var(--second-family);
+    font-weight: 400;
+    font-size: 1.2rem;
+    line-height: 143%;
+    color: #fff;
+    list-style-type: disc;
+}
+
+.guarantee{
+    background-image: url(../../images/guarantee.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 42.8rem;
+    height: 31.5rem;
+    padding: 11rem 4rem 4rem 4rem;
+    margin-top: 8rem;
+    margin-bottom: 8rem;
+}
+.guarantee-head{
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 3rem;
+    line-height: 133%;
+    text-transform: uppercase;
+    text-align: center;
+    color: #fff;
+    margin-bottom: 3rem;
+}
+.guarantee-text{
+    font-family: var(--second-family);
+    font-weight: 400;
+    font-size: 1.4rem;
+    line-height: 143%;
+    text-align: center;
+    color: #fff;
+}
